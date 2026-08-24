@@ -20,13 +20,8 @@
 ## SHA256 校验（v1.2.7）
 
 ```text
-5f1f40463a8c3cadc64e5772777fa7f73db51566a687fb07e0b5f83b79197100  PojiaGaoshou-1.2.7-win-x64.exe
-0ab2a4ce15303972b31225fa428c2ff7874b6e87cab4d44b29091d820f38ac46  PojiaGaoshou-1.2.7-linux-x64.AppImage
-3efad8c49e288cfc0cd2965cc7d3182ff6d38d7931ed4ce9458b795e6a7a9103  PojiaGaoshou-1.2.7-mac-x64.zip
-aa690ba3aca31735aaad0c9dffa467221308a60728016f43a2fa3a30037584ce  PojiaGaoshou-1.2.7-mac-arm64.zip
+817f9410beffac55130fe425bc3a844ff4ebd833ec0609c18a92561b442febbb  PojiaGaoshou-1.2.7-win-x64.exe
+4cf8ee6c80293c1bec988d3822c555bf5a76d278732a9e372ee300d809fa213d  PojiaGaoshou-1.2.7-linux-x64.AppImage
+07162a01c779f3d92ab234a320ec03eb90a083083b0730cd138eb43759cd2334  PojiaGaoshou-1.2.7-mac-arm64.zip
+3e514f807d8957c9c6422e27b18071d7cae697de91ad358462b041c2fd7b37d2  PojiaGaoshou-1.2.7-mac-x64.zip
 ```
-
-## 说明
-
-- macOS 包为未签名的 `.app` 压缩包，首次打开需在「系统设置 → 隐私与安全性」中允许运行。
-- Linux AppImage 需先 `chmod +x` 再运行。
