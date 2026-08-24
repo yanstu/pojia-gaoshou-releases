@@ -6,27 +6,25 @@
 >
 > 作者 QQ：**2537420218**
 
-## 下载 v1.2.6（最新）
+## 下载 v1.2.7（最新）
 
 | 平台 | 架构 | 文件 | 下载 |
 | --- | --- | --- | --- |
-| Windows | x64 | `PojiaGaoshou-1.2.6-win-x64.exe` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.2.6/PojiaGaoshou-1.2.6-win-x64.exe) |
-| Linux | x64 | `PojiaGaoshou-1.2.6-linux-x64.AppImage` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.2.6/PojiaGaoshou-1.2.6-linux-x64.AppImage) |
-| macOS (Intel) | x64 | `PojiaGaoshou-1.2.6-mac-x64.zip` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.2.6/PojiaGaoshou-1.2.6-mac-x64.zip) |
-| macOS (Apple Silicon) | arm64 | `PojiaGaoshou-1.2.6-mac-arm64.zip` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.2.6/PojiaGaoshou-1.2.6-mac-arm64.zip) |
+| Windows | x64 | `PojiaGaoshou-1.2.7-win-x64.exe` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.2.7/PojiaGaoshou-1.2.7-win-x64.exe) |
+| Linux | x64 | `PojiaGaoshou-1.2.7-linux-x64.AppImage` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.2.7/PojiaGaoshou-1.2.7-linux-x64.AppImage) |
+| macOS (Intel) | x64 | `PojiaGaoshou-1.2.7-mac-x64.zip` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.2.7/PojiaGaoshou-1.2.7-mac-x64.zip) |
+| macOS (Apple Silicon) | arm64 | `PojiaGaoshou-1.2.7-mac-arm64.zip` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.2.7/PojiaGaoshou-1.2.7-mac-arm64.zip) |
 
 历史版本见 [Releases 页面](https://github.com/yanstu/pojia-gaoshou-releases/releases)。
 
-## SHA256 校验（v1.2.6）
+## SHA256 校验（v1.2.7）
 
 ```text
-a9a82ce58d0826cb3a9f6381972974f0d8e612ad8fafa0132094dd6030a9f69c  PojiaGaoshou-1.2.6-win-x64.exe
-1ac9fca0315d21c9f2ccd7c42d1e0252a359f8c5e46beeb898d294740df2cd99  PojiaGaoshou-1.2.6-linux-x64.AppImage
-0d9057376cfd25befa0b5196583b1bbef11c2c23023f852d4ac0bcc5682930d5  PojiaGaoshou-1.2.6-mac-arm64.zip
-c0df836380bab97789f19d5593100e265ab6b9953415edc719fff3b382618327  PojiaGaoshou-1.2.6-mac-x64.zip
+5f1f40463a8c3cadc64e5772777fa7f73db51566a687fb07e0b5f83b79197100  PojiaGaoshou-1.2.7-win-x64.exe
+0ab2a4ce15303972b31225fa428c2ff7874b6e87cab4d44b29091d820f38ac46  PojiaGaoshou-1.2.7-linux-x64.AppImage
+3efad8c49e288cfc0cd2965cc7d3182ff6d38d7931ed4ce9458b795e6a7a9103  PojiaGaoshou-1.2.7-mac-x64.zip
+aa690ba3aca31735aaad0c9dffa467221308a60728016f43a2fa3a30037584ce  PojiaGaoshou-1.2.7-mac-arm64.zip
 ```
-
-各版本完整校验和见对应 Release 附带的 `SHA256SUMS.txt`。
 
 ## 说明
 
