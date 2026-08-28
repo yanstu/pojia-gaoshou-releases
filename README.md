@@ -20,10 +20,10 @@
 ## SHA256 校验（v1.3.2）
 
 ```text
-fa68186a1b2182d7fdc573ced44c44f85da44a0c84815c9c3858f7f261169ac5  PojiaGaoshou-1.3.2-win-x64.exe
-665232e7f8a006b4e8a0a92aef712be816e19fd8d2627245bd65315d06e5c7cd  PojiaGaoshou-1.3.2-linux-x64.AppImage
-b78e308eef5b612dda59be19ced6464eef043125c3c5f3a6d6cfa468bd118c4c  PojiaGaoshou-1.3.2-mac-x64.zip
-e8857a22c9ca69f539124f685018460de0533a3a7552f4acecde1475b1d19701  PojiaGaoshou-1.3.2-mac-arm64.zip
+b0158e7d2df4626db3ec7425bbe99b2e1aad88dc56726060b7da1860d1d1851d  PojiaGaoshou-1.3.2-win-x64.exe
+d60db54b9edbecdacd57bf654dec4ef2b2fc622e0d324fa4163eca92e5a7ec63  PojiaGaoshou-1.3.2-linux-x64.AppImage
+14f7e84bb586c1237a4e67977526605309ef7eb9efa6fbfaa33610e4d33c7e1e  PojiaGaoshou-1.3.2-mac-x64.zip
+4508d8198ebcd1ae244e8fd2dae330002f01f577e1b809ea973bbc8151fd6ce1  PojiaGaoshou-1.3.2-mac-arm64.zip
 ```
 
 校验命令：Windows PowerShell 用 `Get-FileHash 文件名 -Algorithm SHA256`，macOS / Linux 用 `shasum -a 256 文件名`。
