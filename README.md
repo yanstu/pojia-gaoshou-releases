@@ -6,24 +6,24 @@
 >
 > 作者 QQ：**2537420218**
 
-## 下载 v1.3.4（最新）
+## 下载 v1.3.5（最新）
 
 | 平台 | 架构 | 文件 | 下载 |
 | --- | --- | --- | --- |
-| Windows | x64 | `PojiaGaoshou-1.3.4-win-x64.exe` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.3.4/PojiaGaoshou-1.3.4-win-x64.exe) |
-| Linux | x64 | `PojiaGaoshou-1.3.4-linux-x64.AppImage` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.3.4/PojiaGaoshou-1.3.4-linux-x64.AppImage) |
-| macOS (Intel) | x64 | `PojiaGaoshou-1.3.4-mac-x64.zip` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.3.4/PojiaGaoshou-1.3.4-mac-x64.zip) |
-| macOS (Apple Silicon) | arm64 | `PojiaGaoshou-1.3.4-mac-arm64.zip` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.3.4/PojiaGaoshou-1.3.4-mac-arm64.zip) |
+| Windows | x64 | `PojiaGaoshou-1.3.5-win-x64.exe` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.3.5/PojiaGaoshou-1.3.5-win-x64.exe) |
+| Linux | x64 | `PojiaGaoshou-1.3.5-linux-x64.AppImage` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.3.5/PojiaGaoshou-1.3.5-linux-x64.AppImage) |
+| macOS (Intel) | x64 | `PojiaGaoshou-1.3.5-mac-x64.zip` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.3.5/PojiaGaoshou-1.3.5-mac-x64.zip) |
+| macOS (Apple Silicon) | arm64 | `PojiaGaoshou-1.3.5-mac-arm64.zip` | [下载](https://github.com/yanstu/pojia-gaoshou-releases/releases/download/v1.3.5/PojiaGaoshou-1.3.5-mac-arm64.zip) |
 
 历史版本见 [Releases 页面](https://github.com/yanstu/pojia-gaoshou-releases/releases)。
 
-## SHA256 校验（v1.3.4）
+## SHA256 校验（v1.3.5）
 
 ```text
-e2a5b28eb851297cfddc213124bb0dc90015260eb940a98ddde8f9f76f86ad9b  PojiaGaoshou-1.3.4-win-x64.exe
-4d39108fb2f3c1a2358e3ff01a5fae64cc6550ee49ce45c3f9ebcc4e00820f84  PojiaGaoshou-1.3.4-linux-x64.AppImage
-186ded6b7682f7c3844ea48ce4a4728396707bc9568f0fcc3e142781d33db86d  PojiaGaoshou-1.3.4-mac-x64.zip
-6523aad33475ba8973a42398941af323de18af3d302d7a4a93d360378a70773d  PojiaGaoshou-1.3.4-mac-arm64.zip
+1ea7b3e32050e2a3bf18182d184cd22392f6b7dd9e4164f2d5ea93aa2fc5db64  PojiaGaoshou-1.3.5-win-x64.exe
+050be7fec7925203819360ae42d7838f0470095f765233145d17a5277f043545  PojiaGaoshou-1.3.5-linux-x64.AppImage
+c8a6971f764e103495633d6f368e14ec31fe0fbc831717f2cb12a5238e1f9db3  PojiaGaoshou-1.3.5-mac-x64.zip
+a6618848d3e1ffb9b3e35f63ac373ae063ec1b259198aa926d545405c73bd735  PojiaGaoshou-1.3.5-mac-arm64.zip
 ```
 
 校验命令：Windows PowerShell 用 `Get-FileHash 文件名 -Algorithm SHA256`，macOS / Linux 用 `shasum -a 256 文件名`。
